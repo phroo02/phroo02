@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/github/followers/phroo02?label=Follow&style=social)](https://github.com/phroo02)
 
 - 💻 Computer engineer student at Politecnico Di Torino
-- 🌱 I love Math, Python, Machine Learning and Deep Learning.
+- 🌱 I love Math and Machine Learning .
 
 
 ### 🖥 Skills
